@@ -1,0 +1,49 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.card {
+    transition: transform 0.2s;
+    height: 100%;
+    margin-bottom: 2rem;
+    border: 1px solid #dee2e6;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: contain;
+    padding: 1rem;
+    background-color: #f8f9fa;
+}
+
+.cart-item {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#loginModal .form-control {
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    height: 2.5rem;
+    overflow: hidden;
+}
+
+.card-text {
+    font-size: 1.25rem;
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+} 

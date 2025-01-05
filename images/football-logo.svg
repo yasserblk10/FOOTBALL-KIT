@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+    <!-- Cercle de fond -->
+    <circle cx="20" cy="20" r="19" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Motif du ballon -->
+    <path d="M20 1 L20 39 M1 20 L39 20" stroke="#000000" stroke-width="2"/>
+    <path d="M5 10 L35 10 M5 30 L35 30" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Pentagones pour le design du ballon -->
+    <path d="M20 5 L25 15 L15 15 Z" fill="#000000"/>
+    <path d="M20 35 L25 25 L15 25 Z" fill="#000000"/>
+    <path d="M5 20 L15 15 L15 25 Z" fill="#000000"/>
+    <path d="M35 20 L25 15 L25 25 Z" fill="#000000"/>
+</svg> 
